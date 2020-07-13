@@ -1,0 +1,20 @@
+PART 4:
+
+A: I noticed the test cases within the functions, such as asking what letters to swap.
+
+B: All of them give me Segmentation Fault 11
+
+C: I didn't get anything.
+
+D: I just took away the delete[]
+
+E: I kept getting Segmentation Fault 11..... I think it has something to do with pointers.
+
+PART 5:
+
+Implemented all
+
+I got my girlfriend to test it.
+It all just gave Segmentation Fault...
+
+I need to work on pointers and dynamic memory so I don't get Segmentation Fault.

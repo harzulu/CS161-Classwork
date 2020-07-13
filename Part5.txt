@@ -1,0 +1,95 @@
+A:
+	One I began to think about was the coodinates for adding, removing, or changing an instrument. I didn't think if the user entered a string or a char.
+B:
+	
+Prompt
+
+Input
+
+Output
+
+What would you like to do?
+1: Create new instrument
+2: Remove instrument
+3: Create new random instrument
+4: Change an instrument
+5: Delete all instruments
+6: View an instrument
+7: Quit
+
+4
+
+Where do you want to change the instrument (Enter in coordinates)
+
+What would you like to do?
+1: Create new instrument
+2: Remove instrument
+3: Create new random instrument
+4: Change an instrument
+5: Delete all instruments
+6: View an instrument
+7: Quit
+
+0
+
+“Invalid input, try again:”
+
+What would you like to do?
+1: Create new instrument
+2: Remove instrument
+3: Create new random instrument
+4: Change an instrument
+5: Delete all instruments
+6: View an instrument
+7: Quit
+
+hghsohdkdhgalishdg
+
+“Invalid input, try again”
+
+Where would you like to create a new instrument (Enter row, then column)?
+
+1
+2
+
+What is the name of the instrument?
+
+Where would you like to create a new instrument (Enter row, then column)?
+
+99
+98
+
+Invalid input(s) try again
+
+Where would you like to create a new instrument (Enter row, then column)?
+
+1
+87654345676543
+
+Invalid input(s) try again
+
+Where would you like to create a new instrument (Enter row, then column)?
+
+1
+sdfgih
+
+Invalid input(s) try again
+
+Where would you like to create a new instrument (Enter row, then column)?
+
+Asdjhgfklasfdg
+sdfgih
+
+Invalid input(s) try again
+
+They all worked, except the cooditates I split up into two seperate inputs
+
+C:
+	I made is so I passed a single pointer instead of a douple pointer into the functions.
+	The program wouldnt compile.
+D:
+
+E:
+I got my girlfriend to do it and it all went smoothly
+
+I would make the treasure chest size change able.
